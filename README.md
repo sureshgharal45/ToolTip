@@ -1,3 +1,7 @@
+# Preview of the Tool-tip app
+
+<img width="960" alt="Preview_Tooltip" src="https://github.com/sureshgharal45/Tooltip/assets/79570808/f0ca0bab-c6bf-4440-8cfa-36e1113af377">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
